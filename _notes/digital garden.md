@@ -5,12 +5,12 @@
 ― John Locke 
 
 
-Cognitive science tells of up synaptic pathways which strengthen as memories are accessed over and over again. It also tells us that 
-
 My thoughts
 * Notes should be written in Markdown or AsciiDoc. Much less context switching than Word
 * Keep a daily agenda and branch off from there
-* Notes should be evoluationary
+* Notes should be constantly evolving.
+* Notes should be revisted and written in your own words
+* Evolutionary writing will strengthen synaptic pathways
 
 
 ***
