@@ -7,6 +7,11 @@ $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
+:root {
+    --accent: #2D9CDB;
+    --grey: #444;
+}
+
 body {
   box-sizing: content-box;
   font-family: $font-family;
@@ -21,6 +26,19 @@ body {
   @media (min-width: 820px) {
     font-size: 1.2rem;
   }
+}
+
+.page-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 8px;
+}
+
+.page-header nav a:not(:hover):not(:focus) {
+    color: currentColor;
+    text-decoration: none;
 }
 
 time {
@@ -38,7 +56,6 @@ footer {
 
 img {
   max-width: 100%;
-  display: block;
   margin: 0 auto;
   max-height: 75vh;
   border-radius: $border-radius;
@@ -79,22 +96,23 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
   color: $color-primary;
-  &:hover {
-    color: black !important;
-    background: #fffaf1;
-  }
-  &:after {
-    position: relative;
-    top: -0.5em;
-    font-size: 0.7em;
-    content: "↗";
-    color: #aaaaaa;
-  }
   &.internal-link:after {
     content: "";
   }
+}
+
+a[href] {
+    color: var(--accent);
+}
+
+a[href]:hover {
+    text-decoration: none;
+}
+
+a[href]:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 4px;
 }
 
 *:focus {
