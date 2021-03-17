@@ -1,6 +1,6 @@
 ---
 title: "Service Mesh"
-keywords:
+tags: [service mesh]
 
 ---
 

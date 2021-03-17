@@ -1,8 +1,6 @@
 ---
 title: "Rust"
-keywords:
-  - #rust
-  - #programmingLanguages
+tags: [rust, programmingLanguages]
 ...
 
 

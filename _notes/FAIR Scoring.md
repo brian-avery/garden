@@ -1,9 +1,6 @@
 ---
 title: "FAIR Scoring"
-keywords:
-  - #security
-  - #vulnerability_scoring
-  - #risk_evaluation
+tags: [security, vulnerability_scoring, risk_evaluation]
 alias: [FAIR]
 ---
 

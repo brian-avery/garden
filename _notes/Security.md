@@ -1,7 +1,5 @@
 ---
 title: "Security"
-keywords:
-  - #security
 ---
 
 * [[Security]]

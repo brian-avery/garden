@@ -3,7 +3,7 @@ layout:     default
 title:      "MIT IoT Security Conference"
 date:       2016-03-10
 author:     "Brian Avery"
-categories:  ["Security" ]
+tags:  ["security" ]
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Auditing"
+tags: [security]
 keywords:
 ---
 

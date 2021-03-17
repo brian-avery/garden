@@ -5,6 +5,7 @@ date:       2017-01-22
 author:     "Brian Avery"
 URL: "/2017/01/22/code-is-a-canvas-for-logical-solutions"
 image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
+tags: [article, programming]
 ---
 
 

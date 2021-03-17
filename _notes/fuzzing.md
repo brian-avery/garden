@@ -1,7 +1,6 @@
 ---
 title: "Fuzzing"
-keywords:
-  - #security
+tags: [security]
 stage: budding
 ---
 

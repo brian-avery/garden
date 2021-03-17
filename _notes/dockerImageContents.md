@@ -1,4 +1,7 @@
 ---
+title: "Docker Image Contents"
+tags: [docker, dive]
+alias: [DREAD]
 ---
 
 # Viewing Docker Image Contents

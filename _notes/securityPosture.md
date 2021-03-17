@@ -1,7 +1,6 @@
 ---
 title: "Security Posture"
-keywords:
-  - #security
+keywords: [security]
 stage: seedling
 ---
 

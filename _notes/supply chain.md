@@ -1,7 +1,6 @@
 ---
 title: "Supply Chain"
-keywords:
-  - #security
+tags: [security, supply chain, programming]
 stage: budding
 ---
 

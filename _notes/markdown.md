@@ -1,5 +1,6 @@
 ---
 title: Jekyll/Kramdown Markdown
+tags: [markdown]
 ---
 
 Footnotes[^1]

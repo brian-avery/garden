@@ -1,5 +1,6 @@
 ---
 title: "Authorization"
+tags: [security]
 keywords:
 alias: []
 ---

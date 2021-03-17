@@ -1,7 +1,6 @@
 ---
 title: "Threat Model"
-keywords:
-  - #security
+keywords: [security]
 stage: budding
 ---
 

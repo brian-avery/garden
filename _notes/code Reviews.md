@@ -2,6 +2,7 @@
 title: "Code Reviews"
 keywords:
 stage: budding
+tags: [programming, code review]
 ---
 
 Code reviews are a process in which other members of a team review code changes before they get committed to a source control system.  These can have many benefits including more readable/maintainable code, improved solutions, accident prevention, finding bugs, knowledge sharing, and mentoring. Often, these are expanded upon with additional automated tooling. 

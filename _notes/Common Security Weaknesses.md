@@ -1,4 +1,8 @@
 ---
+title: "Common Weaknesses"
+tags: [security]
+keywords:
+alias: []
 ---
 
 Rank

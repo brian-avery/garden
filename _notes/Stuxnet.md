@@ -1,7 +1,6 @@
 ---
 title: "Stuxnet"
-keywords:
-  - #security
+tags: [security, vulnerabilities, stuxnet]
 ---
 
 https://upx.github.io/

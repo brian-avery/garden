@@ -1,9 +1,6 @@
 ---
 title: "SPIFFE"
-keywords:
-  - #security
-  - #attestation
-  - #spiffe
+tags: [security, attestation, spiffe]
 ---
 
 ## SPIFFE

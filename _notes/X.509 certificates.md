@@ -1,7 +1,6 @@
 ---
 title: "X.509 certificates"
-keywords:
-  - #security
+keywords: [security]
 stage: budding
 ---
 

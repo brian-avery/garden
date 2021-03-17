@@ -3,9 +3,7 @@ layout:     default
 title:      "Learning and its effect on the brain"
 date:       2017-01-22
 author:     "Brian Avery"
-URL: "/2017/01/22/learning-and-its-effect-on-the-brain"
-image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
-categories:  ["Cognitive Science" ]
+tags:  ["Cognitive Science" ]
 ---
 
 

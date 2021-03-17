@@ -3,8 +3,6 @@ layout:     default
 title:      "Debugging Containers With Stripped Binaries In Go"
 date:       2018-09-19
 author:     "Brian Avery"
-URL:        "/2018/09/19/debugging_stripped_binaries/"
-image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
 categories:  ["Go", "Debugging", "Containers" ]
 ---
 

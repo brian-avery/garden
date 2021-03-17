@@ -3,9 +3,7 @@ layout:     default
 title:      "Debugging Containers With Stripped Binaries In C++"
 date:       2018-09-19
 author:     "Brian Avery"
-URL:        "/2018/09/19/debugging_stripped_binaries_cpp/"
-image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
-categories:  ["C++", "Debugging", "Containers" ]
+tags:  ["c plus plus", "debugging", "containers" ]
 ---
 
 Sometimes it's necessary to strip debugging information before shipping binaries for space or security reasons. However, this can make it more painful to debug these containers if not done properly.

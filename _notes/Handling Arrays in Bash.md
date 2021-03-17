@@ -1,7 +1,10 @@
 ---
+title: "Handling Arrays in Bash"
+tags: [linux, terminal, cli, shell, bash]
+stage: budding
 ---
 
-The following script allows to call watch_tasks with the array foo. $[@] expands the array, which gets passed as an argument.  `($a)` then takes all args passed to the function and combines them all into rpms. This can then be used.
+The following script allows to call watch_tasks with the array foo. `$[@]` expands the array, which gets passed as an argument.  `($a)` then takes all args passed to the function and combines them all into rpms. This can then be used.
 
 ```
 #!/bin/sh

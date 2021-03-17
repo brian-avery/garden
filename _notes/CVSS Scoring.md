@@ -1,10 +1,6 @@
 ---
 title: "CVSS Scoring"
-keywords:
-  - #security
-  - #cvss
-  - #vulnerability_scoring
-  - #exploitability_evaluation
+tags: [security, cvss, vulnerability scoring, exploit evaluation]
 alias: [CVSS Scoring]
 ---
 

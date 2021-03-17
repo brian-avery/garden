@@ -1,4 +1,8 @@
 ---
+title: "Bash"
+tags: [linux, terminal, cli, shell, bash]
+keywords:
+alias: []
 ---
 
 ## Piping Output

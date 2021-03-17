@@ -2,6 +2,7 @@
 title: "Code Review Checklist"
 keywords:
 stage: budding
+tags: [programming, code review]
 ---
 
 

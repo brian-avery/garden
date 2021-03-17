@@ -1,4 +1,6 @@
 ---
+title: "Ignore New Files in Link Checker"
+tags: [programming, git]
 ---
 
 # Ignore New Files in Link Checker

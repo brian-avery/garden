@@ -1,7 +1,6 @@
 ---
 title: "Vulnerabilities"
-keywords:
-  - #security
+keywords: [security]
 stage: budding
 ---
 

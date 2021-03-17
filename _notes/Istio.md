@@ -1,8 +1,6 @@
 ---
 title: "Istio"
-keywords:
-  - #istio
-  - #service-mesh
+tags: [istio, service mesh]
 ---
 
 
