@@ -3,7 +3,7 @@ layout:     default
 title:      "Learning and its effect on the brain"
 date:       2017-01-22
 author:     "Brian Avery"
-tags:  ["Cognitive Science" ]
+tags:  ["Cognitive Science","article" ]
 ---
 
 

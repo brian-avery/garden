@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<!--todo: move this to host locally -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 
 <content>
   {{ content }}
@@ -16,5 +18,55 @@ layout: default
     </a>
 </span>
 {% endfor %}
+
+<!--<canvas id="myChart"></canvas>
+<script>
+    function graphClickEvent(event, array){
+    if(array[0]){
+        console.log(event);
+        console.log(array);
+        console.log(array[0]._index);
+        switch(array[0]._index) {
+            case 0:
+                window.location.href="/tag/security"
+                break;
+            case 1:
+                window.location.href="/tag/programming"
+                break;
+            case 2:
+                window.location.href="/tag/risk-evaluation"
+                break;
+            case 3:
+                window.location.href="/tag/service-mesh"
+                break;
+            case 4:
+                window.location.href="/tag/vulnerability-scoring"
+                break;
+        }
+    }
+}
+
+    var ctx = document.getElementById('myChart').getContext('2d');
+var chart = new Chart(ctx, {
+    // The type of chart we want to create
+    type: 'wordCloud',
+
+    // The data for our dataset
+    data: {
+        labels: ['Security', 'Programming', 'Risk Evaluation', 'Service Mesh', 'Vulnerability Scoring'],
+        datasets: [{
+            backgroundColor: 'rgb(255, 99, 132)',
+            fill: false,
+            data: [13, 7, 3, 4, 4],
+            minBarLength: 2,
+        }]
+    },
+
+    // Configuration options go here
+    options: {
+            onClick: graphClickEvent
+    }
+});
+</script>-->
 
 

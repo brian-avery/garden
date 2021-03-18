@@ -1,6 +1,6 @@
 ---
 title: "Linkerd"
-tags: [linkerd, service-mesh]
+tags: [linkerd, service mesh]
 ---
 
 > Istio is focused on features, even at the expense of complexity. Linkerd is focused on simplicity, even at the expense of features. -[1]
