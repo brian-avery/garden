@@ -1,6 +1,6 @@
 ---
 title: "DREAD Scoring"
-tags: [security, vulnerability_scoring, risk_evaluation]
+tags: [security, vulnerability scoring, risk evaluation]
 alias: [DREAD]
 ---
 
